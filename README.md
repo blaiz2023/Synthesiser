@@ -4,7 +4,7 @@ Easy to use midi player - play midi files with the ".mid", ".midi" and ".rmi" fi
 <img src="images/synthesiser-screenshot.jpg">
 
 # Features
-* Dual play systems - [tep:folder20] Play Folder and [tep:notes20] Play List
+* Dual play systems - Play Folder and Play List
 * Comes with 18 built-in sample midis on a virtual disk
 * Elapsed, Remaining and Total time readouts
 * Device Status and Device Count readouts
@@ -19,7 +19,7 @@ Easy to use midi player - play midi files with the ".mid", ".midi" and ".rmi" fi
 * Auto Fade In - eliminate loud or abrupt notes during rewind, fast forward or reposition operations
 * Playback Progress bar - click to reposition/jump backward or forward in time
 * Volume control with volume boost (up to 200%)
-* "[tep:vol20] Mixer" link - display Windows "Volume Mixer" app
+* "Mixer" link - display Windows "Volume Mixer" app
 * Play ".mid", ".midi" and ".rmi" midi files in 0 and 1 formats
 * Scrolling lyrics viewer
 * Detailed midi information panel
