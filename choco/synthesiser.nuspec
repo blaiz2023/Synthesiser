@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>synthesiser</id>
+    <version>2.0.158</version>
+    <title>Synthesiser</title>
+    <authors>Blaiz Enterprises</authors>
+    <owners>Blaiz Enterprises</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://www.blaizenterprises.com/synthesiser.html#help--mit-license</licenseUrl>
+    <projectUrl>https://www.blaizenterprises.com/synthesiser.html</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/blaiz2023/Synthesiser/9ef396c3ab531623c222348850e21200abda8d29/images/synthesiser-256.png</iconUrl>
+    <description>Easy to use midi player - play midi files with the ".mid", ".midi" and ".rmi" file extension.
+
+![Synthesiser v2.0.158 Screenshot](https://rawcdn.githack.com/blaiz2023/Synthesiser/9ef396c3ab531623c222348850e21200abda8d29/images/synthesiser-screenshot.jpg)
+
+Features
+* Dual play systems - (img style="aspect-ratio:0.9;width:18px;max-width:100%;" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAUCAYAAACAl21KAAAApUlEQVR4AWJgGLaAEeozNyDdBsTGSD79DWSvA+IIJDGCzDNAFSFYVNUAxa5hEccQgrnoP1AGxkZXdA8ooIguCOWfBdINQLwFphlkEDbwCCg4HYg7sEkCxUDeLgNiIxYkBTBDkYQIMlcAVSwHqWIiqJRIBaMGEQ6owRdGMDfjyiIweVw0KFuB9DLAEmQDkN0ExKuBmBRwHqi4jhQNQ1AtAAAA//8DAK+9FBaYQtgAAAAAAElFTkSuQmCC" title="folder20 TEP image
+Click to view image full size in a new tab") Play Folder and (img style="aspect-ratio:0.85;width:17px;max-width:100%;" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAYAAABroNZJAAAAjklEQVR4AeySUQqAMAxDO/H+V1YyyIhdRyvsww8HSl2T16gz27BawriSPtrtKIhSSQWCtKurD6hAtiT5IekXmAWn26ocLmcx018MgD8PkyHaYBICoNHae8KkmqQCCJMyCSdChMWJ+hzVXUwIBDSiQUMXyS181ZVYfKNUAAd2/xsIaA/zwH+muAEAAP//AwCUIRA1i2jIxQAAAABJRU5ErkJggg==" title="notes20 TEP image
+Click to view image full size in a new tab") Play List
+* Comes with 18 built-in sample midis on a virtual disk
+* Elapsed, Remaining and Total time readouts
+* Device Status and Device Count readouts
+* Native ".m3u" playlist support (copy, paste, open, save, build)
+* Drag and drop midi files to play/add to playlist
+* Play Modes: Once, Repeat One, Repeat All, All Once, Random
+* Play Speed: 50% to 200% (0.5x to 2x)
+* Intro Mode: Play first 2s, 5s, 10s or 30s of midi
+* Rewind/Fast Forward by: 1s, 2s, 5s, 10s or 30s
+* Play on Start option - playback commences on app start
+* Always on Midi option - maintain connection to midi device for instant playback
+* Auto Fade In - eliminate loud or abrupt notes during rewind, fast forward or reposition operations
+* Playback Progress bar - click to reposition/jump backward or forward in time
+* Volume control with volume boost (up to 200%)
+* "(img style="aspect-ratio:0.5;width:10px;max-width:100%;" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAUCAYAAAC07qxWAAAA9ElEQVR4AcTRSwtBQRjG8eOehCKR20LJRhQliq2NjbUskMuGLWVlQ/kKPo2lvaXyVfg/LlMKK+WtX96Zec7MOMey/lEjHWr/cnKJtSJcXzJWmcXuIzj+FNQuQ7SQxwCmNNjghBnaqCOHDkyt6J5BHdlAAVn0YGpJN8cR2q2GKnSNKcy/3tMfNEEFEUUMIfhhgk16HRdAHAkkEYEPJqhjKlAwjRS0oxc2mKAm9PI9UEDHu6E5J0zwTB+GHlBYFNBuF9zT/PY1eJTeo67y/HTa9WNNWNlBX2ir1O2iat6UQg5ksHiz/jKl17Z+mfnZ4AoAAP//AwDbHhfNmh8NwwAAAABJRU5ErkJggg==" title="vol20 TEP image
+Click to view image full size in a new tab") Mixer" link - display Windows "Volume Mixer" app
+* Play ".mid", ".midi" and ".rmi" midi files in 0 and 1 formats
+* Scrolling lyrics viewer
+* Detailed midi information panel
+* Large list capacity for handling thousands of midi files
+* Switch between up to 10 midi playback devices
+* Custom built midi playback engine for high playback stability
+* Automatic compact mode for display on small/low resolution screens
+* Simple and easy to use
+* Options Window - Easily change app color, font, and settings
+* Portable</description>
+    <summary>Easy to use midi player - play midi files with the ".mid", ".midi" and ".rmi" file extension.</summary>
+    <copyright>2025 Blaiz Enterprises</copyright>
+    <tags>synthesiser easy midi player mid rmi play file files playlist</tags>
+    <projectSourceUrl>https://github.com/blaiz2023/Synthesiser/</projectSourceUrl>
+    <packageSourceUrl>https://github.com/blaiz2023/Synthesiser//tree/main/choco</packageSourceUrl>
+    <docsUrl>https://www.blaizenterprises.com/synthesiser.html#help</docsUrl>
+    <bugTrackerUrl>https://www.blaizenterprises.com/contact.html</bugTrackerUrl>
+  </metadata>
+</package>
